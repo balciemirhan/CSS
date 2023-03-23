@@ -1,0 +1,22 @@
+/******************************layout*****************************/
+body{
+background-image: url(https://cellularnews.com/images/hd/motorcycle-5827X3880-uuw3xe16mzdw085z.jpeg),url(C:\Users\Monster\Desktop\motoramblem.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover,contain;
+text-align: center;
+font-size: 5cm;
+color: rgba(0, 0, 0, 0.735);
+}
+
+.title1{
+color: rgba(255, 255, 255, 0.626); 
+font-size: 25cm;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+}
+
+
